@@ -1,0 +1,5 @@
+C:\Users\maybe\Projects\Learn-CSharp\bin\Debug\Learn_CSharp.exe
+C:\Users\maybe\Projects\Learn-CSharp\bin\Debug\Learn_CSharp.pdb
+C:\Users\maybe\Projects\Learn-CSharp\obj\Debug\Learn-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\maybe\Projects\Learn-CSharp\obj\Debug\Learn_CSharp.exe
+C:\Users\maybe\Projects\Learn-CSharp\obj\Debug\Learn_CSharp.pdb
