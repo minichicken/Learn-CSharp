@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42998f22-6aa9-4e23-a2d0-1fdc069286bd" name="Default Changelist" comment="" />
+    <list default="true" id="fe3a5ddd-a356-4813-94f3-2358281ef96f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Learn-CSharp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Learn-CSharp/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Learn-CSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Learn-CSharp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Learn-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/Learn_CSharp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/Learn_CSharp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/Learn_CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/Learn_CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Learn_CSharp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Learn_CSharp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Learn_CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Learn_CSharp.pdb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,43 +23,44 @@
     <session id="1657145727">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cs" value="1" />
+          <entry key="gitignore" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C#" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="cs" value="25" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="C#" value="25" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="592">
+              <caret line="466" column="33" lean-forward="true" selection-start-line="466" selection-start-column="33" selection-end-line="466" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
-                <marker date="1540995304980" expanded="true" signature="37:193" ph="{...}" />
-                <marker date="1540995304980" expanded="true" signature="66:191" ph="{...}" />
-                <marker date="1540995304980" expanded="true" signature="119:185" ph="{...}" />
+                <marker date="1540995710201" expanded="true" signature="37:200" ph="{...}" />
+                <marker date="1540995710201" expanded="true" signature="73:198" ph="{...}" />
+                <marker date="1540995710201" expanded="true" signature="126:192" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -65,6 +77,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Program.cs" />
       </list>
     </option>
@@ -76,12 +89,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
+    <option name="x" value="132" />
+    <option name="y" value="53" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -99,12 +111,6 @@
               <item name="Learn-CSharp" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Learn-CSharp" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Learn-CSharp" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Learn-CSharp" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -117,7 +123,6 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,17 +161,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="42998f22-6aa9-4e23-a2d0-1fdc069286bd" name="Default Changelist" comment="" />
-      <created>1540995266217</created>
+      <changelist id="fe3a5ddd-a356-4813-94f3-2358281ef96f" name="Default Changelist" comment="" />
+      <created>1540995513783</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1540995266217</updated>
-      <workItem from="1540995267323" duration="38000" />
+      <updated>1540995513783</updated>
+      <workItem from="1540995516002" duration="290000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38000" />
+    <option name="totallyTimeSpent" value="290000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -178,7 +183,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
+    <frame x="-105" y="23" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -187,13 +192,14 @@
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32947975" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32947975" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -214,20 +220,32 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/.." />
-    </ignored-roots>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="466" column="33" lean-forward="true" selection-start-line="466" selection-start-column="33" selection-end-line="466" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <marker date="1540995304980" expanded="true" signature="37:193" ph="{...}" />
-            <marker date="1540995304980" expanded="true" signature="66:191" ph="{...}" />
-            <marker date="1540995304980" expanded="true" signature="119:185" ph="{...}" />
+            <marker date="1540995710201" expanded="true" signature="37:200" ph="{...}" />
+            <marker date="1540995710201" expanded="true" signature="73:198" ph="{...}" />
+            <marker date="1540995710201" expanded="true" signature="126:192" ph="{...}" />
           </folding>
         </state>
       </provider>

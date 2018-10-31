@@ -4,6 +4,7 @@
     <e p="C:\Users\maybe\.Rider2018.2\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\maybe\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Learn-CSharp.1477042587.00" t="ExcludeRecursive" />
     <e p="C:\Users\maybe\Projects\Learn-CSharp" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="Learn-CSharp.csproj" t="IncludeRecursive" />
       <e p="Learn-CSharp.sln" t="IncludeFlat" />
