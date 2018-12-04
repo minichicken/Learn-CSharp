@@ -2,18 +2,22 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\maybe\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\maybe\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Learn-CSharp.1477042587.00" t="ExcludeRecursive" />
-    <e p="C:\Users\maybe\Projects\Learn-CSharp" t="IncludeRecursive">
-      <e p=".gitignore" t="Include" />
-      <e p="bin" t="ExcludeRecursive" />
-      <e p="Learn-CSharp.csproj" t="IncludeRecursive" />
-      <e p="Learn-CSharp.sln" t="IncludeFlat" />
-      <e p="obj" t="ExcludeRecursive" />
-      <e p="packages" t="ExcludeRecursive" />
-      <e p="Program.cs" t="Include" />
-      <e p="Properties" t="Include">
-        <e p="AssemblyInfo.cs" t="Include" />
+    <e p="C:\Users\maybe\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Learn-CSharp.-392137104.00" t="ExcludeRecursive" />
+    <e p="C:\Users\maybe\Projects\LearnCSharp" t="IncludeFlat">
+      <e p="Learn-CSharp" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Learn-CSharp.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Learn-CSharp.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
       </e>
+      <e p="Learn-CSharp.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>
 </project>
